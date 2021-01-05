@@ -1,0 +1,25 @@
+.pageBG{
+    background-color: #313638;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.btnSpecs{
+    display: block;
+    border: none;
+    height: 40px;
+    width: 100%;
+    margin-right: 1px;
+    background-color: white;
+}
+.whiteText{
+    color: white;
+}
+.whiteBG{
+    background-color: white;
+}
+.titleSpecs{
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
